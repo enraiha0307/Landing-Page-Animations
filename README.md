@@ -44,7 +44,7 @@ Simply Beautiful Landing page animated with anime.js and Tweenmax.js.
     <a href="https://github.com/enraiha0307/Landing-Page-Animations"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/enraiha0307/Landing-Page-Animations">View Demo</a>
+    <a href="https://enraiha0307.github.io/Landing-Page-Animations/">View Demo</a>
     ·
     <a href="https://github.com/enraiha0307/Landing-Page-Animations/issues">Report Bug</a>
     ·
